@@ -12,12 +12,13 @@
 // Afficher la table de multiplication des 5
 //DONE
 
-// -- 3 --
+// -- 3 --  !!!
 // Afficher toutes les tables de multiplication des nombres pairs uniquement entre 10 et 20 (inclus)
+//DONE
 
-
-// -- 4 --
+// -- 4 --  !!!
 // Calculer l'addition des nombres pairs entre 10 et 30
+//DONE
 
 
 // -- 5 --
@@ -58,7 +59,7 @@
 // Créer une fonction qui demande à l'utilisateur son age et lui indique dans combien d'années il aura 100 ans
 //DONE
 
-// -- 14 --
+// -- 14 -- 
 // Créez un tableau qui contient les prénoms des élèves d'EDEN School Paris (au moins 10)
 // Affichez dans la page la liste des élèves.
 // Ajoutez un bouton "Ajouter un élève" qui permet d'ajouter un élève à la liste
